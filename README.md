@@ -13,5 +13,6 @@ Dans l’optimisation par essaim de particules, une équation permet de guider l
 * L’influence personnelle : la particule tend à se diriger vers la meilleure position par laquelle elle est déjà passée
 * L’influence sociale : la particule tend à se diriger vers la meilleure position atteinte par ses voisines
 
+![alt text](https://github.com/JulienChoukroun/Methode-PSO-d-optimisation-par-Essaims-de-particules/blob/master/Images/pso.png "Principe de la PSO")
 
-![alt text](https://github.com/JulienChoukroun/Modelisation-de-la-propagation-d-une-epidemie-Python/blob/master/Images/SystemeEquations.png "Système d'équations de départ")
+![alt text](https://github.com/JulienChoukroun/Methode-PSO-d-optimisation-par-Essaims-de-particules/blob/master/Images/plotdebutfin.png "Principe de la PSO")
