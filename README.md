@@ -15,4 +15,6 @@ Dans l’optimisation par essaim de particules, une équation permet de guider l
 
 ![alt text](https://github.com/JulienChoukroun/Methode-PSO-d-optimisation-par-Essaims-de-particules/blob/master/Images/pso.png "Principe de la PSO")
 
-![alt text](https://github.com/JulienChoukroun/Methode-PSO-d-optimisation-par-Essaims-de-particules/blob/master/Images/plotdebutfin.png "Principe de la PSO")
+Exemple de résultat :
+
+![alt text](https://github.com/JulienChoukroun/Methode-PSO-d-optimisation-par-Essaims-de-particules/blob/master/Images/plotdebutfinal.png "Exemple de résultat")
